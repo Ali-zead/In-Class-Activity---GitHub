@@ -1,7 +1,7 @@
 # In-Class-Activity---GitHub
 def greet(name):
     """Return a friendly greeting."""
-    return "Hello, {Ali}!"
+    return "Hello, Ali!"
 
 def add_numbers(a, b):
     """Return the sum of two numbers."""
