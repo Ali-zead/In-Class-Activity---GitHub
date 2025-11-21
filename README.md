@@ -3,6 +3,7 @@ def greet(name):
     """Return a friendly greeting."""
     return "Hello, Ali!"
     #removed the curvy brackets
+    #Edited by Noshaba Nasir
 
 def add_numbers(a, b):
     """Return the sum of two numbers."""
